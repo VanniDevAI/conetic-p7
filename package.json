@@ -1,0 +1,6 @@
+{
+  "name": "m2j2-seed",
+  "private": true,
+  "type": "module",
+  "scripts": { "test": "node --test --experimental-strip-types tests/price.test.ts" }
+}
